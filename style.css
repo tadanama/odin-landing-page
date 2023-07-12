@@ -5,6 +5,11 @@ body {
   flex-direction: column;
 }
 
+.hero-container,
+.footer {
+  background-color: #1f2937;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
