@@ -30,6 +30,10 @@ body {
   color: #f9faf8;
 }
 
+.hero-sub-title {
+  color: #e5e7eb;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
