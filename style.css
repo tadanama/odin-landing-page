@@ -21,6 +21,11 @@ body {
   color: #f9faf8;
 }
 
+.header-links a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
