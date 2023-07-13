@@ -5,13 +5,13 @@ body {
   flex-direction: column;
 }
 
-.hero-container,
+.hero-main-container,
 .body,
 .footer {
   padding: 32px 64px;
 }
 
-.hero-container,
+.hero-main-container,
 .footer {
   background-color: #1f2937;
 }
