@@ -41,6 +41,8 @@ body {
 .footer {
   display: flex;
   justify-content: center;
+  color: #f9faf8;
+  font-size: 15px;
 }
 
 .header {
