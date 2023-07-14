@@ -61,6 +61,7 @@ body {
 
 .hero-container {
   display: flex;
+  gap: 50px;
 }
 
 h1 {
