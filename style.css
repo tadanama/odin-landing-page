@@ -49,6 +49,14 @@ body {
   align-items: center;
 }
 
+.hero-signup {
+  color: white;
+  background-color: #3882f6;
+  padding: 8px 32px;
+  border: none;
+  border-radius: 8px;
+}
+
 .footer {
   display: flex;
   justify-content: center;
