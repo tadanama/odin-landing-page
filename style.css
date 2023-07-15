@@ -64,6 +64,10 @@ body {
   gap: 50px;
 }
 
+.hero-title-container p {
+  margin: 0;
+}
+
 h1 {
   margin: 0;
 }
