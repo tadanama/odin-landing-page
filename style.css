@@ -120,6 +120,7 @@ body {
   font-weight: lighter;
   font-style: italic;
   color: #1f2937;
+  max-width: 800px;
 }
 
 .signature {
