@@ -127,6 +127,7 @@ body {
 .signature {
   display: flex;
   justify-content: flex-end;
+  margin-right: 300px;
 }
 
 h2 {
