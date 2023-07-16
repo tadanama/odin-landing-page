@@ -122,6 +122,11 @@ body {
   color: #1f2937;
 }
 
+.signature {
+  display: flex;
+  justify-content: flex-end;
+}
+
 h2 {
   text-align: center;
   font-size: 36px;
