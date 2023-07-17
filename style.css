@@ -134,6 +134,9 @@ body {
 
 .signup-container {
   margin: 32px 300px;
+  color: white;
+  background-color: #3882f6;
+  border-radius: 5px;
 }
 
 h2 {
